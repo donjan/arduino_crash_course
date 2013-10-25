@@ -9,4 +9,4 @@ PORT ?= /dev/ttyACM*
 
 OPT = s
 
-include /home/msk/ArduinoMin/makefile/Master_Makefile.mk
+include /home/bryonak/c/arduino_crash_course/makefile/Master_Makefile.mk
